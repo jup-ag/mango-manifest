@@ -2168,7 +2168,7 @@ dependencies = [
  "borsh 0.9.3",
  "bytemuck",
  "hypertree",
- "num_enum 0.5.9",
+ "num_enum 0.5.11",
  "shank",
  "solana-logger",
  "solana-program",
@@ -2487,9 +2487,9 @@ dependencies = [
 
 [[package]]
 name = "num_enum"
-version = "0.5.9"
+version = "0.5.11"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "8d829733185c1ca374f17e52b762f24f535ec625d2cc1f070e34c8a9068f341b"
+checksum = "1f646caf906c20226733ed5b1374287eb97e3c2a5c227ce668c1f2ce20ae57c9"
 dependencies = [
  "num_enum_derive 0.5.11",
 ]
@@ -5114,7 +5114,7 @@ dependencies = [
  "bytemuck",
  "num-derive 0.3.3",
  "num-traits",
- "num_enum 0.5.9",
+ "num_enum 0.5.11",
  "solana-program",
  "thiserror",
 ]
@@ -6350,7 +6350,7 @@ dependencies = [
  "bytemuck",
  "hypertree",
  "manifest",
- "num_enum 0.5.9",
+ "num_enum 0.5.11",
  "shank",
  "solana-logger",
  "solana-program",
